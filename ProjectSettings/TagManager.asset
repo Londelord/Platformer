@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -44,6 +44,15 @@ TagManager:
   - name: Background
     uniqueID: 3918263679
     locked: 0
-  - name: New Layer 2
+  - name: Background decor
+    uniqueID: 3325486277
+    locked: 0
+  - name: Front
     uniqueID: 2418222587
+    locked: 0
+  - name: Level
+    uniqueID: 224780509
+    locked: 0
+  - name: Level decor
+    uniqueID: 2995623049
     locked: 0
