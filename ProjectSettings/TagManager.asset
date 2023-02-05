@@ -47,7 +47,7 @@ TagManager:
   - name: Background decor
     uniqueID: 3325486277
     locked: 0
-  - name: Front
+  - name: Props
     uniqueID: 2418222587
     locked: 0
   - name: Level
